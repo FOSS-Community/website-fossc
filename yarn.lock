@@ -1572,10 +1572,10 @@ flowbite-react@^0.3.2:
     react-icons "^4.6.0"
     react-indiana-drag-scroll "^2.2.0"
 
-flowbite@^1.5.3:
-  version "1.5.3"
-  resolved "https://registry.npmjs.org/flowbite/-/flowbite-1.5.3.tgz"
-  integrity sha512-e2OHfndxTHtGMqcPqvqwg3gGLg57hmIDVgE/BazMDccgirQ0JEtirKnbZZ4WSOIEhNDgO9pJZuyC8rRlcMm6pQ==
+flowbite@^1.8.1:
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/flowbite/-/flowbite-1.8.1.tgz#a1f5fb039c4c275414a457089b4917a67e9153a5"
+  integrity sha512-lXTcO8a6dRTPFpINyOLcATCN/pK1Of/jY4PryklPllAiqH64tSDUsOdQpar3TO59ZXWwugm2e92oaqwH6X90Xg==
   dependencies:
     "@popperjs/core" "^2.9.3"
     mini-svg-data-uri "^1.4.3"

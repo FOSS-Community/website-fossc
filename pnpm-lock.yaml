@@ -27,11 +27,11 @@ dependencies:
     specifier: ^16.0.3
     version: 16.0.3
   flowbite:
-    specifier: ^1.5.3
-    version: 1.5.3
+    specifier: ^1.8.1
+    version: 1.8.1
   flowbite-react:
     specifier: ^0.3.2
-    version: 0.3.2(flowbite@1.5.3)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.1.8)
+    version: 0.3.2(flowbite@1.8.1)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.1.8)
   prop-types:
     specifier: ^15.8.1
     version: 15.8.1
@@ -1913,7 +1913,7 @@ packages:
       resolve-dir: 1.0.1
     dev: false
 
-  /flowbite-react@0.3.2(flowbite@1.5.3)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.1.8):
+  /flowbite-react@0.3.2(flowbite@1.8.1)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.1.8):
     resolution: {integrity: sha512-Cioqan7ZMmA8njbUjo+CuAmOhcLPvKlHPZSA1P8A23XTHCPuqgoFq7OtIXTBw2fXFWl0DFvKcnLTAGQmDCXl+w==}
     peerDependencies:
       flowbite: ^1
@@ -1925,7 +1925,7 @@ packages:
       '@floating-ui/react-dom-interactions': 0.9.3(react-dom@18.2.0)(react@18.2.0)
       classnames: 2.3.2
       commitizen: 4.3.0
-      flowbite: 1.5.3
+      flowbite: 1.8.1
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
       react-icons: 4.8.0(react@18.2.0)
@@ -1936,8 +1936,8 @@ packages:
       - '@swc/wasm'
     dev: false
 
-  /flowbite@1.5.3:
-    resolution: {integrity: sha512-e2OHfndxTHtGMqcPqvqwg3gGLg57hmIDVgE/BazMDccgirQ0JEtirKnbZZ4WSOIEhNDgO9pJZuyC8rRlcMm6pQ==}
+  /flowbite@1.8.1:
+    resolution: {integrity: sha512-lXTcO8a6dRTPFpINyOLcATCN/pK1Of/jY4PryklPllAiqH64tSDUsOdQpar3TO59ZXWwugm2e92oaqwH6X90Xg==}
     dependencies:
       '@popperjs/core': 2.11.7
       mini-svg-data-uri: 1.4.4
